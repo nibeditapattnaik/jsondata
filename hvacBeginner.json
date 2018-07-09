@@ -1,20 +1,24 @@
 [{
-"projectName" : "chiller",
-"description" : "basic chiller problem",
-"date" : "208/07/06"
+"projectName" : "clean room analysis",
+"description" : "CFD ANALYSIS OF CLEAN ROOMS FOR CONTAMINATION TRACKING",
+"date" : "208/07/06",
+ "link":"https://www.udvavisk.com/estimation-contaminant-concentration-sterile-facility/"
 },
 {
-"projectName" : "duct",
-"description" : "basic rectangular duct problem",
-"date" : "208/07/06"
+"projectName" : "insulation of ducts",
+"description" : "INSULATION OF DUCTS FOR ENERGY EFFICIENCY",
+"date" : "208/07/06",
+"link" : "https://www.udvavisk.com/importance-insulation-ducts-hvac-systems/"
 },
 {
-"projectName" : "pipe",
-"description" : "basic circular pipe problem",
-"date" : "208/07/06"
+"projectName" : "https://www.udvavisk.com/advantages-vrf-technology/",
+"description" : "HVAC SYSTEM DESIGN : VRF TECHNOLOGY",
+"date" : "208/07/06",
+"link" : "https://www.udvavisk.com/advantages-vrf-technology/"
 },
 {
-"projectName" : "fin",
-"description" : "transformer fin design",
-"date" : "208/07/06"
+"projectName" : "cfd analysis in data center",
+"description" : "APPLICATION OF CFD IN DATA CENTER",
+"date" : "208/07/06",
+"link" : "https://www.udvavisk.com/cfd-analysis-data-center/"
 }]
